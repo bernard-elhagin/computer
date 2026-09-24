@@ -1,0 +1,37 @@
+0. Jedno z największych osiągnięć ludzkości.
+
+1. Żarówka + jeden przełącznik = definicje 0 i 1, true false.
+
+2. AND, OR na żarówkach.
+
+3. Tranzystor. Powiedz o przewodnikach i izolatorach. Półprzewodnik czasem
+przewodnik, czasem izolator.
+
+4. AND, OR, NOT na tranzystorach.
+
+5. NAND, XOR na OR + AND + NOT
+
+6. System binarny. 10 palców, 8 palców, 4 palce, 2 palce.
+
+7. Dodawanie pojedynczych bitów.
+
+8. Half-adder, full adder, 8-bit adder. Set second 8 bit number to 00000001 to get an incrementor.
+
+9. Feedback OR, feedback AND.
+
+10. Gated latch.
+
+11. 8 latches == 1 register. CPU has several registers.
+
+12. latches side by side require too many wires.
+
+
+basenc --base2msbf -w32 hello L
+
+
+EPILOG
+------
+
+Charles Petzold - "CODE"
+Ben Eater - YouTube
+Turnig Complete - Steam
