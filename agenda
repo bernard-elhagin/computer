@@ -17,6 +17,8 @@ przewodnik, czasem izolator.
 
 8. Half-adder, full adder, 8-bit adder. Set second 8 bit number to 00000001 to get an incrementor.
 
+8a. ALU.
+
 9. Feedback OR, feedback AND.
 
 10. Gated latch.
@@ -25,6 +27,13 @@ przewodnik, czasem izolator.
 
 12. latches side by side require too many wires.
 
+13. Pics dealing with multiplexing.
+
+14. Registers and CPU.
+
+15. Hello World - assembly - 1010000111100. Binary form is put into RAM by kernel.
+
+16. Data Bus.
 
 basenc --base2msbf -w32 hello L
 

@@ -55,17 +55,32 @@
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>DataIn</string>
+        </entry>
+      </elementAttributes>
       <pos x="540" y="440"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>Enable</string>
+        </entry>
+      </elementAttributes>
       <pos x="540" y="640"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>DataOut</string>
+        </entry>
+      </elementAttributes>
       <pos x="1440" y="600"/>
     </visualElement>
   </visualElements>
